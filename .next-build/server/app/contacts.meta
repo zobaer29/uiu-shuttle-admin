@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/contacts/layout,_N_T_/contacts/page,_N_T_/contacts"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/297900e9400e2707ba02fdce12f2a7c4d6147bdcdb332b4cbbe79dea88917619/$/contacts",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/contacts/page"
+    },
+    "isFallback": false
+  }
+}

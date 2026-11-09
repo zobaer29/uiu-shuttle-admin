@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/schedules/layout,_N_T_/schedules/page,_N_T_/schedules"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/f47e81ab6649b3655cab3e9144de5ccd71b77c0888e4e999556a676831649d1a/$/schedules",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/schedules/page"
+    },
+    "isFallback": false
+  }
+}

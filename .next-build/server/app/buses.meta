@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/buses/layout,_N_T_/buses/page,_N_T_/buses"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/6e04d7c01795ae7e6739cb649ab7e0a7af4bd8983abfeda2367e97708210e650/$/buses",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/buses/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/trips/layout,_N_T_/trips/page,_N_T_/trips"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/82c7cd21d318afc9087e6a10ef373eea316779b7f4a49505e98b3bd047c5e818/$/trips",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/trips/page"
+    },
+    "isFallback": false
+  }
+}

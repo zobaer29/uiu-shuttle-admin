@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/buses/page": "/buses",
+  "/contacts/page": "/contacts",
+  "/drivers/page": "/drivers",
+  "/page": "/",
+  "/reports/page": "/reports",
+  "/routes/page": "/routes",
+  "/schedules/page": "/schedules",
+  "/trips/page": "/trips",
+  "/login/page": "/login"
+}
